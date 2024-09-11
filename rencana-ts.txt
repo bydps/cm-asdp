@@ -3,6 +3,7 @@ RENCANA TS ASDP
 -Javascript
   *ES6
   *Framework Javascript
+- Sturuktur Data Dasar
 -PHP
 -Interview
 -Vlogs
